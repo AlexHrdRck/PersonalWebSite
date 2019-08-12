@@ -1,2 +1,2 @@
 # PersonalWebSite
-Personal Web Site About Me
+Web Site About Me
